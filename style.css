@@ -558,6 +558,9 @@ td {
 /* === 6.5. FULL STACK PROJECT === */
 .full-stack {
     /* Uses the default 'section' padding */
+    display: flex;;
+    flex-direction: column;
+    gap:20px;
 }
 
 .full-stack-container {
